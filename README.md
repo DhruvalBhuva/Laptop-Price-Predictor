@@ -16,11 +16,11 @@ The **Laptop Price Predictor** is a machine learning project that predicts the p
   - IPS
   - Screen resolution
   - Screen size
-  - Cpu_brand
+  - CPU brand
   - HDD
   - SSD
-  - GPU_Name
-  - Os_type
+  - GPU
+  - OS type
 
 - **Output:**
   - Predicted laptop price
@@ -60,4 +60,4 @@ To run the application, follow these steps:
 
 ## Data
 
-The project utilizes a dataset containing information on various laptops, including features such as Company, TypeName, Ram, Weight, Touchscreen, IPS, Screen resolution, Screen size, Cpu_brand, HDD, SSD, GPU_Name, and Os_type.
+The project utilizes a dataset containing information on various laptops, including features such as Company, TypeName, Ram, Weight, Touchscreen, IPS, Screen resolution, Screen size, CPU brand, HDD, SSD, GPU, and OS type.
